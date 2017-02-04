@@ -1,7 +1,7 @@
 /* Assignment 2 for
  * 
  * Justin Moore
- * Feb 4th 1017
+ * Feb 4th 2017
  * Into to Programming Section 009
  */
 public class Car {
